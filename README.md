@@ -17,3 +17,6 @@
  
  ![detection_object](https://user-images.githubusercontent.com/63863911/184546801-4e0a3d12-b143-418e-ba8b-bdebe5b26974.jpeg)
 
+## Image Segmentation
+
+![Segmentation](https://user-images.githubusercontent.com/63863911/186417373-f64568f4-2d96-4deb-bfe3-85217d202213.jpg)
