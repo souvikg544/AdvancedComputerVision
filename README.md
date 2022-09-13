@@ -24,3 +24,7 @@
 ## UNet
 <img width="1000" alt="unet" src="https://user-images.githubusercontent.com/63863911/187970931-59308a0f-b6fa-4858-a74c-83b2a174f493.png">
 
+## Fcn-8
+<img width="866" alt="fcn8" src="https://user-images.githubusercontent.com/63863911/189852178-81994129-b717-4944-b270-ef36c5c5daea.png">
+
+
